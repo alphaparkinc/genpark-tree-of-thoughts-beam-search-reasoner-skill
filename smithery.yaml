@@ -1,0 +1,6 @@
+name: genpark-tree-of-thoughts-beam-search-reasoner-skill
+version: 1.0.0
+description: Tree of Thoughts (ToT) reasoning engine exploring multi-branch decision states via breadth-first beam search
+command: python
+args:
+  - mcp_server.py
