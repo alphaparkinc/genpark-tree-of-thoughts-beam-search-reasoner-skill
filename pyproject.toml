@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-tree-of-thoughts-beam-search-reasoner-skill"
+version = "1.0.0"
+description = "Tree of Thoughts (ToT) reasoning engine exploring multi-branch decision states via breadth-first beam search"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
