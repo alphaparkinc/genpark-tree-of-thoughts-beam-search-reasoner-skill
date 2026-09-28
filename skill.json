@@ -1,0 +1,20 @@
+{
+  "name": "genpark-tree-of-thoughts-beam-search-reasoner-skill",
+  "version": "1.0.0",
+  "description": "Tree of Thoughts (ToT) reasoning engine exploring multi-branch decision states via breadth-first beam search",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "tree-of-thoughts",
+    "tot",
+    "beam-search",
+    "reasoning-tree",
+    "search-heuristic",
+    "python-standard-library",
+    "agent-skills",
+    "autonomous-agents",
+    "problem-solving",
+    "planning-algorithms"
+  ]
+}
